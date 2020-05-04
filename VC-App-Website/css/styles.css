@@ -20,7 +20,7 @@ h2{
 }
 
 #title{
-  background-image: url('/home/nikhil/Documents/VCA/images/vcimg2.jpeg');
+  background-image: url('../images/vcimg2.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center top;
