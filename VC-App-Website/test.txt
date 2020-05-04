@@ -1,0 +1,9 @@
+/images/vc-img.png
+images/vc-img.png
+background-image: url('https://www.kindpng.com/picc/m/459-4593856_video-conferencing-clipart-png-transparent-png.png');
+
+//image
+https://assets.entrepreneur.com/content/3x2/2000/20200323214142-GettyImages-1209904658.jpeg
+
+
+https://www.idagent.com/wp-content/uploads/2020/03/Dangers-Virtual-Meetings-1024x535-1.png
